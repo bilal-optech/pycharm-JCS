@@ -14,7 +14,7 @@ def start_test(test_name):
 
 
 def main():
-    ui.markdown("## SLICK Measurement Automation")
+    ui.markdown("## SLICK Measurement Automation v2")
 
     with ui.row():
         ui.label("Working directory :")
